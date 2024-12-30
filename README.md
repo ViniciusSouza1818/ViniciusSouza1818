@@ -12,13 +12,8 @@ System Analyst passionate about implementing and optimizing systems, with experi
   
 ### 📝 More About Me:
 
-- 🛠️ &nbsp; I’m currently working on Java
-- 🤝 &nbsp; I’m looking to collaborate on [my-website](https://github.com/GabrielMoreiradeSouza/GabrielMoreira.dev.git)
-- 📘 &nbsp; I am studying computer science
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/GabrielMoreiradeSouza?tab=repositories)
-- 📫 &nbsp; Connect with me on  [LinkedIn](https://www.linkedin.com/in/gabriel-moreira-de-souza-bb4289240/)
-- 📝 &nbsp; Checkout my [resume](https://github.com/GabrielMoreiradeSouza) 
-- 📫 &nbsp; How to reach me: [gmoreiradesouza19@gmail.com](mailto:gmoreiradesouza19@gmail.com)
+- 🛠️ &nbsp; I’m currently working on Java configurations and developing web projects.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ViniciusSouza1818?tab=repositories)
 <br>
 
 ## 🔨 Languages and Tools:
@@ -29,17 +24,17 @@ System Analyst passionate about implementing and optimizing systems, with experi
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/css/css.svg"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img alt="Jenkins" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/jenkins/jenkins.svg"/></a>
-<a href="https://en.wikipedia.org/wiki/Plugin" target="_blank"><img alt="Plugins" height="42px" src="https://www.svgrepo.com/download/382965/settings.svg"/></a>
 
 
 
 ## 🏅 My GitHub Stats:
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMoreiradeSouza&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoreiradeSouza&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusSouza1818&show_icons=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusSouza1818&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 #
 <div align="center">
-Despite everything it's still you.
+𝒲ℎ𝑎𝑡'𝑠 𝑡ℎ𝑒 𝑝𝑜𝑖𝑛𝑡 𝑜𝑓 𝑡𝑒𝑙𝑙𝑖𝑛𝑔 𝑖𝑡 𝑙𝑖𝑘𝑒 𝐼 𝑎𝑚 𝑖𝑓 𝑦𝑜𝑢'𝑟𝑒 𝑔𝑜𝑖𝑛𝑔 𝑡𝑜 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑤ℎ𝑎𝑡 𝑜𝑡ℎ𝑒𝑟𝑠 𝑤𝑖𝑙𝑙 𝑠𝑎𝑦?
+              -𝐵𝑜𝑏 𝑀𝑎𝑟𝑙𝑒𝑦.
 </div>
